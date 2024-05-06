@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: Chelsey Harper, Bernette Chan, Trinity Kobiesucz, Charlotte Kubitz
 format: html
 editor: visual
 embed-resources: true
